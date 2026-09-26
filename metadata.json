@@ -1,0 +1,6 @@
+{
+  "name": "Sindhi DocScan & OCR",
+  "description": "Document scanner and OCR app specialized for printed and handwritten Sindhi Arabic script text using Gemini Vision API, image enhancement filters, and RTL Sindhi editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
